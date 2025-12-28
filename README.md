@@ -25,11 +25,3 @@ For higher limits, please visit our API Documentation.
 
 ---
 
-### 4. SEO İçin Kritik Dokunuş: Topics (Etiketler)
-Depo ana sayfasının sağ tarafında **"About"** kısmındaki ayarlar (dişli) ikonuna tıkla ve şu etiketleri ekle:
-`python`, `networking`, `mac-address`, `oui-lookup`, `api`, `developer-tools`.
-
-### Neden Bunu Yaptık?
-Bu depo sayesinde, bir yazılımcı GitHub'da **"python mac lookup"** diye arattığında senin projen karşına çıkacak. Kodun içindeki `macverify.com` linkleri ise Google için çok değerli teknik backlinkler olarak hanene yazılacak.
-
-**Bu depoyu tamamladıysan, bir sonraki adımda diğer araçların (IP Calculator vb.)
